@@ -29,7 +29,7 @@
 | 1 | `modulo_03_avanzado/01_sql_python.py` | sqlite3, INSERT/SELECT/UPDATE, pandas + SQL, upsert |
 | 2 | `modulo_03_avanzado/02_apis_rest.py` | requests, paginación, auth, retry, POST/PUT/DELETE |
 | 3 | `modulo_03_avanzado/03_logging_pipelines.py` | logging, handlers rotativos, JSON estructurado, decorador, context manager |
-| 4 | `modulo_03_avanzado/04_python_avanzado.py` | Generadores, context managers, dataclasses, Counter, itertools |
+| 4 | `modulo_03_avanzado/04_funciones_avanzadas.py` | Generators, context managers (clase y @contextmanager), decoradores con parámetros, dataclasses |
 | 5 | `modulo_03_avanzado/05_proyecto_integrador.py` | Pipeline completo: API → transform → SQLite → CSV/JSON + logging |
 
 ## Cómo usar estas lecciones
