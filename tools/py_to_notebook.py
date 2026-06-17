@@ -216,6 +216,7 @@ if __name__ == "__main__":
         "modulo_01_basico",
         "modulo_02_intermedio",
         "modulo_03_avanzado",
+        "modulo_04_pipelines",
     ]
 
     total = 0
